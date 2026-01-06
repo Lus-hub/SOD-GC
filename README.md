@@ -7,6 +7,16 @@ Fig. 1: The overall architecture of SOD-GC consists of three novel modules—Glo
 Feature Space Pyramid(CFSP), and multi-scale feature fusion recalibration(MFRC)—that are intended to work under a variety
 of traffic scenes.
 
+## Table of Contents
+- [Technical Briefing](#technical-briefing)
+- [Main Results](#main-results)
+  - [1. Comparative Analysis](#1-comparative-analysis)
+  - [2. Small Object Detection Performance](#2-small-object-detection-performance)
+  - [3. Visualization Results](#3-visualization-results)
+- [Quick Start](#quick-start)
+  - [1. Install Dependencies](#1-install-dependencies)
+  - [2. Training](#2-training)
+
 ## Technical Briefing 💡
 
 **We propose SOD-GC**, a novel network specifically designed to address the low detection accuracy of small objects in traffic scenes, as illustrated in Fig. 1. The design introduces three innovative modules:
